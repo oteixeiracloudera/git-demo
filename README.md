@@ -2,6 +2,5 @@ Demo Git Repository
 
 This is the first file in this repo.
 
-Ipsum Below
-
-garbage test
+Website files:
+index.html
